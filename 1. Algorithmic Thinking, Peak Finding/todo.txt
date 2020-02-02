@@ -1,0 +1,2 @@
+1. 1-d peek search using o(n) and o(logn)
+2. greedy ascent algorithm for peek finding in 2D arrays
